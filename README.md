@@ -1,8 +1,20 @@
-# React + Vite
+# Design to Build
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Login Page
 
-Currently, two official plugins are available:
+Desktop
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![alt text](./images/image.png)
+
+Mobile
+
+![alt text](./images/image-1.png)
+
+Ipad
+
+![alt text](./images/image-2.png)
+
+## Sign up Page
+
+Desktop/mobile/Ipad
+![alt text](./images/image-3.png)
